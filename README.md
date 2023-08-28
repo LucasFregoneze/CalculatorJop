@@ -1,2 +1,2 @@
 # CalculatorJop
- Programa que simula uma calculadora, utilizando JOptionPane
+ Program that simulates a calculator in Java using JOptionPane
